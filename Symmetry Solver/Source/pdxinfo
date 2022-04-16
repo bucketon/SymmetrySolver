@@ -1,0 +1,7 @@
+name=SymmetrySolver
+author=zac
+description=A basic game template.
+bundleID=com.zac.symmetrysolver
+version=1.0
+buildNumber=100
+imagePath=SystemAssets
